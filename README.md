@@ -1,22 +1,24 @@
-#POEM GENERATOR BY CAROLINE CROOKS AND MICHELLE TU
-##VIEW LIVE SITE
+POEM GENERATOR BY CAROLINE CROOKS AND MICHELLE TU
+for TecHacks 2021
+
+VIEW LIVE SITE
 live site: https://techacks-hackathon.michelletu3.repl.co/
 
-##Features
+FEATURES
 - 4 Poem Types: Roses are Red, Acrostic, Rhyme Schemes, Haikus
 - Copy poem to clipboard
 - Name and save poem to local storage
 
-##CREDITS
+CREDITS
 
-###API + WORD DATA
+API + WORD DATA
 - Datamuse API: https://www.datamuse.com/api/
 - Verb List: https://github.com/aaronbassett/Pass-phrase
 
-###Styling
+Styling
 - Bootstrap: https://getbootstrap.com/
 
-###Images
+Images
 - Rose Flower: https://pixabay.com/photos/rose-flower-petals-red-rose-320868/
 - Block Letters: https://pixabay.com/photos/blocks-letters-alphabet-education-3629359/
 - Rhyming: https://unsplash.com/photos/7b78Kb37Fzk
