@@ -1,0 +1,94 @@
+body {
+  text-align: center;
+  margin-bottom: 4em;
+}
+
+.card {
+  text-align: initial;
+}
+
+#generateButton, input[value="Generate"] {
+  display: block;
+  margin: auto;
+  margin-bottom: 1em;
+  margin-top: 1em;
+  font-size: 2em;
+}
+
+.poem > p, #aaaResult, #ababResult, #abbaResult, #aabbaResult {
+  font-size: 1.75em;
+}
+
+.poemTitle {
+  text-decoration: underline;
+  margin: 1em;
+}
+
+label {
+  font-size: 1.5em;
+}
+
+input[type="text"] {
+  margin-bottom: 1.5em;
+}
+
+#copyMessage, #aaaCopyMessage, #ababCopyMessage, #abbaCopyMessage, #aabbaCopyMessage {
+  display:table;
+  background-color: #e3f2fd;
+  margin: auto;
+  margin-top: 1em;
+  width: 8%;
+  border-radius: 0.25em;
+}
+
+.rhymeForm {
+  margin-top: 1em;
+}
+
+.navbar-brand, .dropdown-toggle {
+  font-size: 2em;
+}
+
+#header {
+  background-color: #e3f2fd;
+  padding: 1em;
+  display: table;
+  margin: auto;
+  margin-top: 2em;
+  margin-bottom: 2em;
+  border-radius: 0.5em;
+}
+
+.twoRhymes {
+  display: flex;
+  justify-content: center;
+}
+
+.twoRhymes > div {
+  padding-left: 3em;
+  padding-right: 3em;
+}
+
+.poemItem {
+  display: table;
+  margin: auto;
+  padding: 1em 8em;
+  border-style: solid;
+  border-color: grey;
+  border-width: 1px 1px;
+  height: 4em;
+  margin-top: 2em;
+  border-radius: 0.5em;
+}
+
+.poemItem:hover {
+  background-color: #e3f2fd;
+}
+
+#poemContent {
+  font-size: 2em;
+}
+
+.card {
+  margin: 1em;
+}
