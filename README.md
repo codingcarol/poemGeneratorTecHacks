@@ -1,5 +1,6 @@
 POEM GENERATOR BY CAROLINE CROOKS AND MICHELLE TU
-for TecHacks 2.0 [WINNER OF MOST INNOVATIVE HACK]
+for TecHacks 2.0 
+[WINNER OF MOST INNOVATIVE HACK]
 
 VIEW LIVE SITE
 Live Site: https://techacks-hackathon.michelletu3.repl.co/
