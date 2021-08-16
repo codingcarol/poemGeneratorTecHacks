@@ -4,8 +4,8 @@ for TecHacks 2.0
 [WINNER OF MOST INNOVATIVE HACK]
 
 VIEW LIVE SITE
-Live Site: https://techacks-hackathon.michelletu3.repl.co/
-Devpost Showcase: https://devpost.com/software/poem-generator-ca0k8q
+- Live Site: https://techacks-hackathon.michelletu3.repl.co/
+- Devpost Showcase: https://devpost.com/software/poem-generator-ca0k8q
 
 FEATURES
 - 4 Poem Types: Roses are Red, Acrostic, Rhyme Schemes, Haikus
